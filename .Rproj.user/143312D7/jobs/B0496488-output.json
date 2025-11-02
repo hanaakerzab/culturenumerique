@@ -1,0 +1,1 @@
+[1,"\u001B[91mERROR: YAMLException: duplicated mapping key (_quarto.yml, 24:3)\n23: \u001B[34m  format:\u001B[91m\n24: \u001B[34m  html:\u001B[91m\n     ~~\n25: \u001B[34m    theme:\u001B[91m\u001B[39m\n"]
