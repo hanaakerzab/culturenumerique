@@ -248,7 +248,7 @@ De fait, devoir choisir agit comme un filtrage initial car l’utilisateur n’a
 </div>
 
 <div style="text-align:center; font-size:0.9em; margin-top:6px;">
-_Étape 2: Comptes recommandés selon les trois profils Twitter: divertisement, politique et sport_
+_Étape 2: Comptes recommandés selon les trois profils Twitter (divertisement, politique et sport)_
 </div>
 
 Par exemple, pour le profil orienté “politique” les suggestions renvoient massivement à des figures publiques, des journalistes et des médias engagés. Pour le profil “sport”, il reçoit des comptes liés à l’actualité sportive et le profil “divertissement” voit apparaître des comptes liés à l'industrie de la mode. Ced recommendations montrent que l’algorithme de Twitter ne se contente pas de répondre à des usage mais anticipe les préférences et préstructure le fil d’actualité avant même toute interaction.
@@ -260,7 +260,7 @@ L’expérience menée avec trois comptes distincts confirme cette logique de sp
 ![](images/IMG_2716.jpg){width=30%}
 ![](images/IMG_2852.jpg){width=30%}
 <div style="text-align:center; font-size:0.9em; margin-top:6px;">
-_Étape 3: Fils d'actualité spécialisés après 3 semaines selon les trois profils Twitter: divertisement, politique et sport_
+_Étape 3: Fils d'actualité spécialisés après 3 semaines selon les trois profils Twitter (divertisement, politique et sport)_
 </div>
 </div>
 
