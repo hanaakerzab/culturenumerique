@@ -24,10 +24,8 @@ Pour comprendre les tendances et la récurrence des contenus dans chaque profil-
 Concrètement, pour chacun des trois profils, nous avons sélectionné trois hashtags représentatifs (les premiers qui sont apparus sur le fil) puis observé leur évolution. Après environ dix jours de “construction” du profil (likes, abonnements, partages ciblés), nous avons ensuite parcouru chaque fil d’actualité à raison de 50 vidéos par jour, en notant la fréquence d’apparition de chaque hashtag. Les résultats obtenus se sont révélés très parlants, mettant en évidence des dynamiques claires de spécialisation du contenu.
 
 <div style="text-align:center;">
---- *Évolution des contenus sur 20 jours* ---
+  <u><em>*Évolution des contenus sur 20 jours*</em></u>
 </div>
-
-Synthèse TikTok: spécialisation des fils (20 jours)
 
 
 ```{r}
@@ -60,7 +58,10 @@ datatable(
 
 ::: {.callout-note title="Données plus détaillées (évolution sur 20 jours)" collapse="true"}
 
-<div style="text-align:center; margin:.25rem 0 .75rem;">— *Évolution des contenus TikTok : début / milieu / fin de période* —</div>
+<div style="text-align:center;">
+  <u><em> *Évolution des contenus TikTok : début / milieu / fin de période*</em></u>
+</div>
+
 
 ::: {.panel-tabset}
 
@@ -134,9 +135,8 @@ datatable(
  **Comment lire les tableaux**: Les pourcentages indiquent des <strong>taux de présence</strong> , donc une même vidéo peut comporter plusieurs hashtags.
 </small>
 
-
 <div style="text-align:center;">
---- *Visualisation des évolutions* ---
+  <u><em>*Visualisation des évolutions*</em></u>
 </div>
 
 
