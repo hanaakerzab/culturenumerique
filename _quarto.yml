@@ -20,7 +20,7 @@ website:
       - text: "Bibliographie"
         file: annexes.qmd
   page-footer:
-    center: "© Enquête numérique: Hanâa, Abdelkader, Alia"
+    center: "Enquête numérique: Hanâa, Abdelkader, Alia"
 
 format:
   html:
