@@ -240,13 +240,10 @@ Si TikTok montre une homogénéisation progressive fondée sur l’observation d
 De fait, devoir choisir agit comme un filtrage initial car l’utilisateur n’accède pas à un espace neutre mais à un environnement déjà organisé selon les catégories que la plateforme lui propose. À partir de ces sélections, Twitter génère immédiatement une liste de comptes “recommandés” associés aux thèmes choisis:
 
 <div style="margin: 0.5rem 0 2rem; padding: 1rem 1.25rem; border-radius: 14px; background: var(--bs-body-bg); box-shadow: 0 6px 14px rgba(0,0,0,.06); border: 1px solid rgba(0,0,0,.06);">
-
 ![](images/IMG_2685.jpg){width=30%}
 ![](images/IMG_2681.jpg){width=30%}
 ![](images/IMG_3124.jpg){width=30%}
-
 </div>
-
 <div style="text-align:center; font-size:0.9em; margin-top:6px;">
 _Étape 2: Comptes recommandés selon les trois profils Twitter (divertisement, politique et sport)_
 </div>
@@ -274,14 +271,12 @@ Les captures d’écran montrent donc une différenciation immédiate entre les 
 Twitter devine ce que l’utilisateur veut voir et le lui montre immédiatement. D'autre part, cette spécialisation s’accentue car les mêmes sourcesc et les mêmes formats réapparaissent ce qui donne l’impression d’une diversité qui reste en réalité très limitée. 
 
 # Analyse des entretiens
-Pour accompagner cette analyse, nos quatre entretiens réalisés auprès d’individus âgés de 19 à 34 ans ont permis d'observer des régularités dans les usages.
+Pour accompagner cette analyse, <span style="color:#1f8a54; font-weight:bold;">nos quatre entretiens réalisés auprès d’individus âgés de 19 à 34 ans</span> ont permis d'observer des régularités dans les usages.
 
 ## *Des usages peu réfléchis*
 <p>
 Tous les enquêtés décrivent une présence quotidienne (presque automatique) sur les réseaux. 
-Les applications sont ouvertes sans but précis, souvent<span class="quote-inline">"quand [ils ont] cinq minutes" (Enquêtée 2)</span>, dans une logique d’habitude plus que de recherche. 
-L’étudiant en ingénierie parle d’un 
-<span class="quote-inline">"scroll sans trop réfléchir" (Enquêté 1)</span>,  tandis que l’auditeur évoque des moments où <span class="quote-inline">"je me dis “juste cinq minutes” et j’y suis encore une heure après" (Enquêté 4)</span>. Ces pratiques traduisent une consommation passive car les utilisateurs ne vont pas vers l’information mais elle vient à eux.Les contenus sont découverts par les recommandations, les “pour toi” ou les partages d’amis, rarement par recherche directe. Même les usagers qui disent “s’informer”, notamment l’étudiante de 19 ans, le font dans un cadre divertissant, Instagram et Twitter servent à se divertir:<span class="quote-inline">"voir l’actualité quand même. Mais les mêmes sur X sont super drôles" (Enquêtée 2)</span>.
+Les applications sont ouvertes sans but précis, souvent<span class="quote-inline">"quand [ils ont] cinq minutes" (Enquêtée 2)</span>, dans une logique d’habitude plus que de recherche. L’étudiant en ingénierie parle d’un<span class="quote-inline">"scroll sans trop réfléchir" (Enquêté 1)</span>, tandis que l’auditeur évoque des moments où<span class="quote-inline">"je me dis juste cinq minutes et j’y suis encore une heure après" (Enquêté 4)</span>. Ces pratiques traduisent une consommation passive car les utilisateurs ne vont pas vers l’information mais elle vient à eux.Les contenus sont découverts par les recommandations, les “pour toi” ou les partages d’amis, rarement par recherche directe. Même les usagers qui disent “s’informer”, notamment l’étudiante de 19 ans, le font dans un cadre divertissant, Instagram et Twitter servent à se divertir:<span class="quote-inline">"voir l’actualité quand même. Mais les mêmes sur X sont super drôles" (Enquêtée 2)</span>.
 </p>
 
 ## *La conscience du tri algorithmique sans remise en question*
@@ -291,7 +286,7 @@ Tous reconnaissent le caractère répétitif de leur fil mais pourtant peu le pe
 
 ## *Une homogénéité sociale et culturelle assumée*
 <p>
-L’ingénieur aime <span class="quote-inline">"retrouver un ton que je comprends, des références que j’ai" (Enquêté 1)</span>. L’étudiante de 19 ans suit des créateurs <span class="quote-inline">"qui partagent [sa] mentalité"</span> et admire <span class="quote-inline">"ceux qui défendent un point de vue construit"</span>. L’identification fonctionne aussi à travers les pairs car<span class="quote-inline">"j'envoie toujours des videos à mes copines sur Tiktok et souvent elles en ont déjà vu certaines" (Enquêtée 3)</span>. Cette homogénéité des usages traduit une prolongation du capital culturel hors ligne car les affinités sociales structurent les contenus visibles dans un groupe.
+L’ingénieur aime <span class="quote-inline">"retrouver un ton que je comprends, des références que j’ai" (Enquêté 1)</span>. L’étudiante de 19 ans suit des créateurs<span class="quote-inline">"qui partagent [sa] mentalité"</span> et admire <span class="quote-inline">"ceux qui défendent un point de vue construit"</span>. L’identification fonctionne aussi à travers les pairs car<span class="quote-inline">"j'envoie toujours des videos à mes copines sur Tiktok et souvent elles en ont déjà vu certaines" (Enquêtée 3)</span>. Cette homogénéité des usages traduit une prolongation du capital culturel hors ligne car les affinités sociales structurent les contenus visibles dans un groupe.
 </p>
 
 ## *Des différences générationnelles et d’attitude face aux contenus*
